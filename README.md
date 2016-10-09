@@ -1,4 +1,6 @@
-# Everyday One Motion - 20160519 "Glitchcircle"  
+# Everyday One Motion - 20160519  
+
+"Glitchcircle"  
 
 ![](20160519.gif)  
 
